@@ -30,7 +30,7 @@
 </picture>
 <picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" height="50"/>
-</picture> <br>
+</picture> <br> <br> <br> <br>
 <!--
 **SriyanthaDeepal/SriyanthaDeepal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
