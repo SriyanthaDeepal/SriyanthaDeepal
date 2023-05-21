@@ -53,6 +53,6 @@ Here are some ideas to get you started:
 
 ### Profiles:
 <picture>
-  <a href="https://www.linkedin.com/in/sriyanthadeepal"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> </a>
+  <a href="https://www.linkedin.com/in/sriyanthadeepal"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" width="50" /> </a>
 </picture>
           
