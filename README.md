@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Sriyantha Deepal's github stats](https://github-readme-stats.vercel.app/api?username=SriyanthaDeepal&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SriyanthaDeepal&layout=compact)
