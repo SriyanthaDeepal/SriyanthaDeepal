@@ -1,7 +1,11 @@
 ### Hi there 👋
+<!-- Language and Tools section -->
 ### Languages and Tools:
 <picture>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20" height="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/>
+</picture>
+<picture>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/>
 </picture>
 <!--
 **SriyanthaDeepal/SriyanthaDeepal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
