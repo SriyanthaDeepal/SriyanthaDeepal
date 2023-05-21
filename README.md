@@ -52,4 +52,7 @@ Here are some ideas to get you started:
 
 
 ### Profiles:
-![LinkedIn Profile](https://www.linkedin.com/in/sriyanthadeepal)
+<picture>
+  <a href="https://www.linkedin.com/in/sriyanthadeepal"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> </a>
+</picture>
+          
