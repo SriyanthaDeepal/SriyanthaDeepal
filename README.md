@@ -30,7 +30,7 @@
 </picture>
 <picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" height="50"/>
-</picture>
+</picture> <br>
 <!--
 **SriyanthaDeepal/SriyanthaDeepal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -49,3 +49,7 @@ Here are some ideas to get you started:
 <!---------- github profile status--------------->
 ![Sriyantha Deepal's github stats](https://github-readme-stats.vercel.app/api?username=SriyanthaDeepal&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SriyanthaDeepal&layout=compact)
+
+
+### Profiles:
+![LinkedIn Profile](https://www.linkedin.com/in/sriyanthadeepal)
