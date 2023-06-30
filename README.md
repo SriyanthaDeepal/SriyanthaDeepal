@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 <!---------- github profile status--------------->
 ![Sriyantha Deepal's GitHub stats](https://github-readme-stats.vercel.app/api?username=SriyanthaDeepal&theme=default_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SriyanthaDeepal&layout=compact&hide=php)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SriyanthaDeepal)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Profiles:
