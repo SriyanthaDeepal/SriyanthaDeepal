@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 -->
 
 <!---------- github profile status--------------->
-![Sriyantha Deepal's github stats](https://github-readme-stats.vercel.app/api?username=SriyanthaDeepal&show_icons=true&hide_border=true)
+![Sriyantha Deepal's GitHub stats](https://github-readme-stats.vercel.app/api?username=SriyanthaDeepal&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SriyanthaDeepal&layout=compact)
 
 
