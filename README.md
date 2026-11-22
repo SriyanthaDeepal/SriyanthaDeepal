@@ -24,7 +24,9 @@ Passionate about building intelligent systems, exploring emerging technologies, 
 </p>
 
 </div>
+
 ---
+
 ### 👨‍💻 About Me
 
 I'm a **Software Technology honours graduate** from the **University of Sri Jayewardenepura, Sri Lanka**, with experience in **AI/ML, software engineering, and DevOps**.
