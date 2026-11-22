@@ -9,7 +9,7 @@ DevOps | Cloud Computing | Applied Research
 Passionate about building intelligent systems, exploring emerging technologies, and developing reliable software solutions.
 
 <p>
-  <a href="https://github.com/SriyanthaDeepal/My-Portfolio">
+  <a href="https://my-portfolio-nine-zeta-48.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF004F?style=flat-square" alt="Portfolio" height="30"/>
   </a>
   <a href="https://www.linkedin.com/in/sriyanthadeepal">
