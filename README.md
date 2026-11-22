@@ -61,12 +61,7 @@ I'm a **Software Technology honours graduate** from the **University of Sri Jaye
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-303B4B?style=flat-square)
 ![CNN](https://img.shields.io/badge/CNN-303B4B?style=flat-square)
 ![SVM](https://img.shields.io/badge/SVM-303B4B?style=flat-square)
-![Classification](https://img.shields.io/badge/Classification-303B4B?style=flat-square)
-![Regression](https://img.shields.io/badge/Regression-303B4B?style=flat-square)
 ![Sensor Data Fusion](https://img.shields.io/badge/Sensor_Data_Fusion-303B4B?style=flat-square)
-![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-303B4B?style=flat-square)
-![Data Preprocessing](https://img.shields.io/badge/Data_Preprocessing-303B4B?style=flat-square)
-![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-303B4B?style=flat-square)
 
 #### 🤖 Generative AI & LLM Engineering
 
