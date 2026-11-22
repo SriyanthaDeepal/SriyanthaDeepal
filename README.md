@@ -85,10 +85,6 @@ I'm a **Software Technology honours graduate** from the **University of Sri Jaye
 ![.NET](https://img.shields.io/badge/.NET-303B4B?style=flat-square)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-303B4B?style=flat-square)
 ![Supabase](https://img.shields.io/badge/Supabase-303B4B?style=flat-square)
-![Prisma](https://img.shields.io/badge/Prisma-303B4B?style=flat-square)
-![Material UI](https://img.shields.io/badge/Material_UI-303B4B?style=flat-square)
-![Vite](https://img.shields.io/badge/Vite-303B4B?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-303B4B?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-303B4B?style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-303B4B?style=flat-square)
 
@@ -101,7 +97,6 @@ I'm a **Software Technology honours graduate** from the **University of Sri Jaye
 ![Git](https://img.shields.io/badge/Git-303B4B?style=flat-square)
 ![GitHub](https://img.shields.io/badge/GitHub-303B4B?style=flat-square)
 ![GitLab](https://img.shields.io/badge/GitLab-303B4B?style=flat-square)
-![Containerization](https://img.shields.io/badge/Containerization-303B4B?style=flat-square)
 ![Bash Automation](https://img.shields.io/badge/Bash_Automation-303B4B?style=flat-square)
 ![VS Code](https://img.shields.io/badge/VS_Code-303B4B?style=flat-square)
 ![Figma](https://img.shields.io/badge/Figma-303B4B?style=flat-square)
