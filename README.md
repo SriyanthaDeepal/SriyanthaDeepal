@@ -37,6 +37,8 @@ I'm a **Software Technology honours graduate** from the **University of Sri Jaye
 - 💡 Interested in **Machine Learning, Deep Learning, Computer Vision, Generative AI, MLOps, Cloud Computing, and Full-Stack Development**.
 - 🤝 Open to opportunities and collaborations in **AI/ML, software engineering, and applied research**.
 
+---
+
 ### 🛠️ Technology Stack
 
 #### 💻 Programming Languages
@@ -110,6 +112,8 @@ I'm a **Software Technology honours graduate** from the **University of Sri Jaye
 ![Figma](https://img.shields.io/badge/Figma-303B4B?style=flat-square)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-303B4B?style=flat-square)
 
+---
+
 ### 🚀 Featured Projects
 
 | Project | Focus |
@@ -118,6 +122,8 @@ I'm a **Software Technology honours graduate** from the **University of Sri Jaye
 | [Ethozai](https://www.ethozai.com/) | Responsible AI · LLM · RAG |
 | [Thripitaka Quest](https://github.com/SriyanthaDeepal/ThripitakaQuest_Elearning.lk) | LangChain · Flask · React |
 | [JourneyAid](https://github.com/SriyanthaDeepal/JourneyAid) | Java · Android · Google Maps |
+
+---
 
 ### 📚 Research Publication
 
