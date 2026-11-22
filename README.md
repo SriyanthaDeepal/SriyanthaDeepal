@@ -1,61 +1,24 @@
-### Hi there 👋
-<!-- Language and Tools section -->
-### Languages and Tools:
-<picture>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-</picture>
-<picture>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-</picture>
-<picture>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
-</picture>
-<picture>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
-</picture>
-<picture>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
-</picture>
-<picture>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
-</picture>
-<picture>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/>
-</picture>
-<picture>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50"/>
-</picture>
-<picture>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" height="50"/>
-</picture> <br> <br>
-<!--
-**SriyanthaDeepal/SriyanthaDeepal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Sriyantha Deepal 👋
 
-<!---------- github profile status--------------->
-![Sriyantha Deepal's GitHub stats](https://github-readme-stats.vercel.app/api?username=SriyanthaDeepal&theme=default_icons=true)
+### AI/ML & Software Development Enthusiast
+**DevOps | Cloud Computing | Applied Research**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SriyanthaDeepal&layout=compact&hide=php)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SriyanthaDeepal&hide=php)](https://github.com/SriyanthaDeepal/github-readme-stats)-->
+Passionate about building intelligent systems, exploring emerging technologies, and developing reliable software solutions.
 
+<a href="https://github.com/SriyanthaDeepal/My-Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-FF004F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/sriyanthadeepal">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-90893-4_5">
+  <img src="https://img.shields.io/badge/Research_Publication-00875A?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Research Publication"/>
+</a>
+<a href="mailto:aasriyanthadeepal@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-### Profiles:
-<picture>
-  <a href="https://www.linkedin.com/in/sriyanthadeepal"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" width="50" /> </a>
-</picture>
-
-<picture>
-<a href="https://www.hackerrank.com/aasriyanthadeep1">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" height="50" width="50"> </a>
-</picture>
+</div>
