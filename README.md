@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ### Hi, I'm Sriyantha Deepal 👋
@@ -11,16 +10,16 @@ Passionate about building intelligent systems, exploring emerging technologies, 
 
 <p>
   <a href="https://github.com/SriyanthaDeepal/My-Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-FF004F?style=flat-square" alt="Portfolio" height="32"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF004F?style=flat-square" alt="Portfolio" height="30"/>
   </a>
   <a href="https://www.linkedin.com/in/sriyanthadeepal">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" height="32"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" height="30"/>
   </a>
   <a href="https://link.springer.com/chapter/10.1007/978-3-031-90893-4_5">
-    <img src="https://img.shields.io/badge/Research_Publication-00875A?style=flat-square" alt="Research Publication" height="32"/>
+    <img src="https://img.shields.io/badge/Research_Publication-00875A?style=flat-square" alt="Research Publication" height="30"/>
   </a>
   <a href="mailto:aasriyanthadeepal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square" alt="Email" height="32"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square" alt="Email" height="30"/>
   </a>
 </p>
 
@@ -28,81 +27,86 @@ Passionate about building intelligent systems, exploring emerging technologies, 
 
 ### 👨‍💻 About Me
 
-I'm a **Software Technology honours graduate** from the University of Sri Jayewardenepura, Sri Lanka, with experience in AI/ML, software engineering, and DevOps.
+I'm a **Software Technology honours graduate** from the **University of Sri Jayewardenepura, Sri Lanka**, with experience in **AI/ML, software engineering, and DevOps**.
 
-- ☁️ Currently an **Associate DevOps & SRE Intern at Pearson Lanka**, working with CI/CD pipelines, AWS CloudFormation, Docker, and Bash automation.
-- 🤖 Previously an **Ethical and Responsible AI Engineer Intern at Ethiksa**, contributing to AI models, vector embeddings, similarity search, and responsible AI workflows.
-- 📚 **First author of a Springer Nature research publication** on multi-sensor terrain classification.
-- 💡 Interested in Machine Learning, Deep Learning, Computer Vision, Generative AI, MLOps, Cloud Computing, and Full-Stack Development.
-- 🤝 Open to engineering opportunities and research collaborations.
+- ☁️ Currently working as an **Associate DevOps & SRE Intern at Pearson Lanka**, supporting **CI/CD pipelines, AWS deployments, Docker containerization, and Bash automation**.
+- 🤖 Previously worked as an **Ethical and Responsible AI Engineer Intern at Ethiksa**, contributing to **AI model development, evaluation, vector embeddings, similarity search, and responsible AI practices**.
+- 📚 **First author of a Springer Nature research publication** on **multi-sensor data fusion for terrain classification**.
+- 💡 Interested in **Machine Learning, Deep Learning, Computer Vision, Generative AI, MLOps, Cloud Computing, and Full-Stack Development**.
+- 🤝 Open to opportunities and collaborations in **AI/ML, software engineering, and applied research**.
 
 ### 🛠️ Technology Stack
 
 #### 💻 Programming Languages
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" title="C" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" title="Bash" width="42" height="42"/>
-</p>
+![Python](https://img.shields.io/badge/Python-303B4B?style=flat-square)
+![Java](https://img.shields.io/badge/Java-303B4B?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-303B4B?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-303B4B?style=flat-square)
+![C](https://img.shields.io/badge/C-303B4B?style=flat-square)
+![C#](https://img.shields.io/badge/C%23-303B4B?style=flat-square)
+![Bash](https://img.shields.io/badge/Bash-303B4B?style=flat-square)
 
 #### 🧠 Machine Learning & Data Science
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="Keras" title="Keras" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" title="scikit-learn" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="42" height="42"/>
-</p>
-
-**Areas:** Computer Vision · CNN · SVM · Classification · Regression · Sensor Data Fusion · Feature Engineering · Model Evaluation
+![TensorFlow](https://img.shields.io/badge/TensorFlow-303B4B?style=flat-square)
+![Keras](https://img.shields.io/badge/Keras-303B4B?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-303B4B?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-303B4B?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-303B4B?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-303B4B?style=flat-square)
+![CNN](https://img.shields.io/badge/CNN-303B4B?style=flat-square)
+![SVM](https://img.shields.io/badge/SVM-303B4B?style=flat-square)
+![Classification](https://img.shields.io/badge/Classification-303B4B?style=flat-square)
+![Regression](https://img.shields.io/badge/Regression-303B4B?style=flat-square)
+![Sensor Data Fusion](https://img.shields.io/badge/Sensor_Data_Fusion-303B4B?style=flat-square)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-303B4B?style=flat-square)
+![Data Preprocessing](https://img.shields.io/badge/Data_Preprocessing-303B4B?style=flat-square)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-303B4B?style=flat-square)
 
 #### 🤖 Generative AI & LLM Engineering
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/langchain/langchain-original.svg" alt="LangChain" title="LangChain" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="Google / Gemini API" title="Google Gemini API" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase Vector Storage" width="42" height="42"/>
-</p>
-
-**Technologies & Concepts:** LLMs · RAG · LangChain · Gemini API · Vector Databases · Vector Embeddings · Similarity Search · Responsible AI
+![LangChain](https://img.shields.io/badge/LangChain-303B4B?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-303B4B?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-303B4B?style=flat-square)
+![Gemini API](https://img.shields.io/badge/Gemini_API-303B4B?style=flat-square)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-303B4B?style=flat-square)
+![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-303B4B?style=flat-square)
+![Similarity Search](https://img.shields.io/badge/Similarity_Search-303B4B?style=flat-square)
+![Responsible AI](https://img.shields.io/badge/Responsible_AI-303B4B?style=flat-square)
 
 #### 🌐 Frontend, Backend & Databases
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" title="Flask" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" alt=".NET" title=".NET" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="42" height="42"/>
-</p>
-
-**Additional Tools:** REST APIs · Supabase · Prisma · Material UI · Vite
+![HTML5](https://img.shields.io/badge/HTML5-303B4B?style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-303B4B?style=flat-square)
+![React](https://img.shields.io/badge/React-303B4B?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-303B4B?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-303B4B?style=flat-square)
+![NestJS](https://img.shields.io/badge/NestJS-303B4B?style=flat-square)
+![.NET](https://img.shields.io/badge/.NET-303B4B?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-303B4B?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-303B4B?style=flat-square)
+![Prisma](https://img.shields.io/badge/Prisma-303B4B?style=flat-square)
+![Material UI](https://img.shields.io/badge/Material_UI-303B4B?style=flat-square)
+![Vite](https://img.shields.io/badge/Vite-303B4B?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-303B4B?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-303B4B?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-303B4B?style=flat-square)
 
 #### ☁️ Cloud, DevOps & Development Tools
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" title="Amazon Web Services" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab" title="GitLab" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" title="Android Studio" width="42" height="42"/>
-</p>
-
-**Additional Skills:** AWS CloudFormation · CI/CD Pipelines · Docker Containerization · Bash Automation
+![AWS](https://img.shields.io/badge/AWS-303B4B?style=flat-square)
+![AWS CloudFormation](https://img.shields.io/badge/AWS_CloudFormation-303B4B?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-303B4B?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI/CD-303B4B?style=flat-square)
+![Git](https://img.shields.io/badge/Git-303B4B?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-303B4B?style=flat-square)
+![GitLab](https://img.shields.io/badge/GitLab-303B4B?style=flat-square)
+![Containerization](https://img.shields.io/badge/Containerization-303B4B?style=flat-square)
+![Bash Automation](https://img.shields.io/badge/Bash_Automation-303B4B?style=flat-square)
+![VS Code](https://img.shields.io/badge/VS_Code-303B4B?style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-303B4B?style=flat-square)
+![Android Studio](https://img.shields.io/badge/Android_Studio-303B4B?style=flat-square)
 
 ### 🚀 Featured Projects
 
@@ -117,7 +121,7 @@ I'm a **Software Technology honours graduate** from the University of Sri Jayewa
 
 **Multi-sensor Data Fusion for Day and Night Terrain Type Classification**
 
-First Author | Springer Nature | Lecture Notes in Networks and Systems
+**First Author** | Springer Nature | Lecture Notes in Networks and Systems
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-90893-4_5">
   <img src="https://img.shields.io/badge/Read_Publication-FF004F?style=flat-square" alt="Read Publication" height="30"/>
